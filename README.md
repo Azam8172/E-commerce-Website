@@ -1,6 +1,8 @@
 ﻿# E-commerce-Website
  https://azam-e-commerce.netlify.app
  
+ https://azam8172.github.io/E-commerce-Website/
+ 
  <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
