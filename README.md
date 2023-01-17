@@ -114,7 +114,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@.s.teotia](https://www.instagram.com/s.teotia/)
+Your Name - Muhammad Shahajam
 
 <!-- Project Link: [https://github.com/curiousRaccoon08/Restaurant-s-Responsive-Website](https://github.com/curiousRaccoon08/Restaurant-s-Responsive-Website) -->
 
